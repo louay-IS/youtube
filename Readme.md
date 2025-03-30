@@ -25,8 +25,6 @@ Ce projet présente une interface web inspirée de YouTube, réalisée à l'aide
 1. Clonez ou téléchargez ce projet.
 2. Ouvrez le fichier `index.html` dans votre navigateur préféré.
 
-## Aperçu :
-![Aperçu de l'interface](./assets/screenshot.png)
 
 ## Auteurs :
-- **Nom de l'auteur** - [Votre profil GitHub](https://github.com/yourusername)
+- **Nom de l'auteur** - [Louay](https://github.com/louay-IS)
